@@ -1,0 +1,12 @@
+[book]
+title = "Nano-vLLM 深度解构"
+authors = ["基于 GeeeekExplorer/nano-vllm 源码分析"]
+language = "zh-CN"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/GeeeekExplorer/nano-vllm"
